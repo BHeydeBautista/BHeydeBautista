@@ -56,8 +56,8 @@ I love to collaborate, share knowledge, and build real value through code.
 <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white" />
 
-🎓 Estudiante de 3er año de **Ingeniería en Informática**
-🎓 3rd year student of **Information Systems Engineering**
+🎓 Estudiante de 3er año de **Ingeniería en Informática**<br>
+🎓 3rd year student of **Information Systems Engineering**<br>
 🖥️ Conocimientos adicionales:  
 <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" />
