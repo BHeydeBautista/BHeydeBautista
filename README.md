@@ -1,119 +1,74 @@
-# 👨‍💻 Bautista Heyde
+<h1 align="center">¡Hola, soy Bautista Heyde! 👋</h1>
 
-**Full Stack Developer** | Estudiante de Ingeniería en Informática  
-**JavaScript · React · Nest.js · Node.js · PostgreSQL · C# · C++ · SQL**
-
----
-
-## 📄 ¿Quién soy?
-
-Soy un **Desarrollador Full Stack** con formación en Ingeniería en Informática y una fuerte vocación por la tecnología. Me destaco por mi capacidad para **trabajar en equipo**, **adaptarme a nuevos desafíos** y consolidar proyectos web con compromiso, responsabilidad y entusiasmo.
+<p align="center">
+  Desarrollador fullstack con formación en Ciencias Económicas, impulsado por el aprendizaje constante y la creación de soluciones innovadoras.
+</p>
 
 ---
 
-## 📌 ¿Por qué yo?
+## 📌 Sobre mí | About Me
 
-Conmigo no solo obtenés habilidades técnicas, sino también un perfil profesional con:
-
-- 🤝 Actitud proactiva  
-- 🧠 Pensamiento crítico  
-- 🧩 Resolución de problemas  
-- 🧭 Liderazgo  
-- 📚 Muchas ganas de seguir aprendiendo y creciendo
-
-Me encanta colaborar, compartir conocimientos y construir soluciones que aporten valor real.
+### 🇪🇸 Español
+Soy desarrollador fullstack formado en Henry, con una sólida base en Ciencias Económicas gracias a mi paso por la UNLP. Me apasiona la tecnología y disfruto colaborar en equipos donde pueda generar impacto.
 
 ---
 
-## 🚀 Experiencia y formación
-
-🎓 Bootcamp intensivo de **Full Stack Developer** en [Soy Henry](https://www.soyhenry.com/)  
-🔧 Tecnologías: JavaScript, React, Redux, Node.js, Nest.js, PostgreSQL, Express, Sequelize
-
-🎓 Estudiante de 3er año de **Ingeniería en Informática**  
-🖥️ Conocimientos previos en C++, C#, SQL y armado/mantenimiento de PC
-
-🗣️ Inglés técnico intermedio (nivel B1) – en constante formación
+### 🇬🇧 English
+I’m a fullstack developer trained at Henry, with a background in Economic Sciences from UNLP. Passionate about technology, I enjoy working on teams where I can make a meaningful impact.
 
 ---
 
-## 🌐 Proyectos destacados
+## 🎯 ¿Por qué elegirme? | Why Me?
 
-- 🏨 **Sistema de gestión hotelera en C++**  
-- 🎮 **Videojuego en C#**  
-- 📦 **API REST para gestión de productos** – Nest.js + PostgreSQL + JWT (CRUD completo)  
-- 🛒 **E-commerce Backend** – Nest.js con autenticación y control de roles  
-- 👨‍💼 **Web institucional para estudio jurídico** – Frontend profesional en React
-
-> 👉 Próximamente: más proyectos en proceso...
+- 💡 Pensamiento crítico y habilidades analíticas, fortalecidas por mi formación en economía.
+- 🧠 Capacidad de aprendizaje autodidacta y permanente.
+- 🤝 Excelentes habilidades interpersonales y comunicación efectiva.
+- ⚙️ Sólida experiencia en desarrollo backend y frontend con tecnologías modernas.
 
 ---
 
-## 📫 Contacto
+## 💼 Experiencia | Experience
 
-- [LinkedIn](https://www.linkedin.com/in/bautistaheyde)  
-- Email: bautistaheyde@gmail.com  
-- Portafolio en construcción...
-
----
-
-# 👨‍💻 Bautista Heyde
-
-**Full Stack Developer** | Information Systems Engineering Student  
-**JavaScript · React · Nest.js · Node.js · PostgreSQL · C# · C++ · SQL**
+- 🖥️ **Bootcamp Henry** — Fullstack Developer  
+  Desarrollo de aplicaciones reales en equipo, siguiendo metodologías ágiles.
+- 💻 **Proyectos individuales y grupales** con Node.js, React, PostgreSQL, Sequelize, Express, entre otras tecnologías.
+- 📚 Formación complementaria en programación orientada a objetos, testing, y buenas prácticas de código.
 
 ---
 
-## 📄 About Me
+## 🛠️ Tecnologías | Technologies
 
-I'm a **Full Stack Developer** with a background in Information Systems Engineering and a strong passion for technology. I'm known for my **teamwork**, **adaptability**, and commitment to building reliable and impactful web applications.
-
----
-
-## 📌 Why Me?
-
-I bring more than just technical skills. I offer a professional attitude and:
-
-- 🤝 Proactive mindset  
-- 🧠 Critical thinking  
-- 🧩 Problem-solving skills  
-- 🧭 Leadership qualities  
-- 📚 Continuous learning and growth mindset
-
-I love to collaborate, share knowledge, and grow both personally and professionally.
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
 ---
 
-## 🚀 Experience & Education
+## 🚀 Proyectos destacados | Featured Projects
 
-🎓 Full Stack Developer Bootcamp at [Soy Henry](https://www.soyhenry.com/)  
-🔧 Tech Stack: JavaScript, React, Redux, Node.js, Nest.js, PostgreSQL, Express, Sequelize
+🔹 [**Ecommerce Backend API**](https://github.com/bautiheyde/ecommerce-api)  
+NestJS + PostgreSQL + TypeORM. API robusta con autenticación JWT, control de roles, órdenes, productos y relaciones complejas.
 
-🎓 3rd year **Computer Engineering** student  
-🖥️ Additional experience with C++, C#, SQL, and computer hardware maintenance
+🔹 [**Weather App**](https://github.com/bautiheyde/weather-app)  
+Aplicación en React que consume una API externa y muestra el clima por ciudad.
 
-🗣️ Intermediate technical English (B1) – constantly improving
-
----
-
-## 🌐 Highlight Projects
-
-- 🏨 **Hotel management system in C++**  
-- 🎮 **Video game built with C#**  
-- 📦 **Product management REST API** – Nest.js + PostgreSQL + JWT (full CRUD)  
-- 🛒 **E-commerce backend** – Nest.js with authentication and role-based access  
-- 👨‍💼 **Law firm website** – Clean and modern React frontend
-
-> 👉 More projects coming soon...
+🔹 [**PI Videogames**](https://github.com/bautiheyde/pi-videogames)  
+Proyecto individual fullstack que consume una API externa, permite búsqueda, filtrado y creación de videojuegos.
 
 ---
 
-## 📫 Contact
+## 📫 Contacto | Contact
 
-- [LinkedIn](https://www.linkedin.com/in/bautistaheyde)  
-- Email: bautistaheyde@gmail.com  
-- Portfolio: coming soon...
+- [LinkedIn](https://www.linkedin.com/in/bautistaheyde/)
+- [Email](mailto:bautistaheyde@gmail.com)
 
 ---
 
-### ✨ "Technology is not only learned — it's lived with passion and purpose."
+<p align="center">
+  💻 Gracias por visitar mi perfil. ¡Estoy abierto a nuevas oportunidades y colaboraciones!
+</p>
