@@ -89,8 +89,6 @@ I love to collaborate, share knowledge, and build real value through code.
 - 📧 bautistaheyde@gmail.com  
 - 🌐 Portafolio / Portfolio: (https://bautista-heyde.vercel.app/)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
 <div className="mt-10">
