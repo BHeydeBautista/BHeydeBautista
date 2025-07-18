@@ -91,6 +91,24 @@ I love to collaborate, share knowledge, and build real value through code.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+---
+
+<div className="mt-10">
+  <h2 className="text-xl font-semibold text-purple-400 mb-4 text-center">
+    📈 GitHub Stats
+  </h2>
+  <div className="flex justify-center">
+    <Image
+      src="https://github-readme-stats.vercel.app/api?username=BHeydeBautista&show_icons=true&theme=onedark&hide_rank=true"
+      alt="Estadísticas de GitHub"
+      width={500}
+      height={200}
+    />
+  </div>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
 ✨ "La tecnología no solo se aprende — se vive con pasión y propósito." <br>
 "Technology is not only learned — it's lived with passion and purpose." ✨
