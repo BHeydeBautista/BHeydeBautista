@@ -96,12 +96,11 @@ I love to collaborate, share knowledge, and build real value through code.
     📈 GitHub Stats
   </h2>
   <div className="flex justify-center">
-    <Image
-      src="https://github-readme-stats.vercel.app/api?username=BHeydeBautista&show_icons=true&theme=onedark&hide_rank=true"
-      alt="Estadísticas de GitHub"
-      width={500}
-      height={200}
-    />
+    <img 
+    src="https://github-readme-stats.vercel.app/api?username=BHeydeBautista&show_icons=true&theme=onedark&hide_rank=true"
+    alt="GitHub Stats"
+    height="180"
+  />
   </div>
 </div>
 
